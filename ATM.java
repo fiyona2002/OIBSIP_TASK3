@@ -1,6 +1,8 @@
-//ISHANT RAJESH PATIL
-//JAVA PROGRAMMING
-//
+//Shah Fiyona Piyush
+
+//ATM Interface
+
+//Java programming
 
 
 package ATMINTERFACE;
